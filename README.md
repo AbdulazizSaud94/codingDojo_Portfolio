@@ -1,3 +1,3 @@
 # codingDojo_Portfolio
  
-Assignment for coding dojo in html % css.
+Assignment for Coding Dojo in html % css.
